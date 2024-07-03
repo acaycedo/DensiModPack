@@ -1,4 +1,5 @@
 # DensiModPack
+Continua en aprobacion en CurseForge por ahora solo se guardara en Github y CurseForge
 Modpack para minecraft centrado en optimización y aventura dificultad media/alta
 
 Intrucciones:
