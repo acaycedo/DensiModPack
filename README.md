@@ -1,7 +1,4 @@
 # DensiModPack
-Continua en aprobacion en CurseForge por ahora solo se guardara en Github y CurseForge
-Modpack para minecraft centrado en optimización y aventura dificultad media/alta
-DENSI
 
 A mod pack focused on exploration centered around enemies, optimized for servers, and without game-easing features aside from the minimap. The idea is to avoid implementing tomb or loot recovery mods as they make the game too easy. The enemies are varied, and the focus is on the mega dungeons.
 
